@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522580324044",
+    "firebase_url": "https://wastickers-app-58d45.firebaseio.com",
+    "project_id": "wastickers-app-58d45",
+    "storage_bucket": "wastickers-app-58d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522580324044:android:8123f356449912d5859c69",
+        "android_client_info": {
+          "package_name": "com.aladdinapps.whatsapp_sticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522580324044-j7c1kte0hj3baksqnudrdm8u56donjm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzNcvTvKqU_0Dj3uEf6uuoV7nzZWhH4OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522580324044-j7c1kte0hj3baksqnudrdm8u56donjm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

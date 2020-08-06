@@ -1,0 +1,64 @@
+name: whatsapp_sticker
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+4
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+
+
+  url_launcher:
+  share:
+  flutter_whatsapp_stickers:
+  firebase_admob: ^0.9.3+2
+  #shared_preferences: ^0.5.8
+  #intl:
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+  #flutter_icons:
+#android: "launcher_icon"
+  #ios: true
+  #image_path: "assets/logo.png"
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - sticker_packs/1/
+    - sticker_packs/2/
+    - sticker_packs/3/
+    - sticker_packs/4/
+    - sticker_packs/5/
+    - sticker_packs/6/
+    - sticker_packs/7/
+    - sticker_packs/8/
+    - sticker_packs/9/
+
+
+    - sticker_packs/sticker_packs.json
+    - assets/images/aladdinapps.png
+    - lang/ar.json
+    - lang/en.json
